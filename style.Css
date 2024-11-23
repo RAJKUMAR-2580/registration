@@ -1,0 +1,22 @@
+body{
+    background: rgb(238,174,202);
+    background: linear-gradient(145deg, rgba(238,174,202,1) 0%, rgba(165,238,179,1) 10%, rgba(205,206,154,1) 20%, rgba(238,179,133,1) 30%, rgba(162,169,218,1) 40%, rgba(188,226,228,1) 50%, rgba(221,199,230,1) 60%, rgba(172,215,231,1) 70%, rgba(101,237,233,1) 80%, rgba(236,165,139,1) 90%, rgba(155,196,245,1) 100%);
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+table{
+    margin-top: 20%;
+    margin-bottom: 292px;
+    margin-left: 600px;
+}
+.submit{
+    border-radius: 5px;
+    background-color: aqua;
+    color: rgb(229, 14, 14);
+    margin-left: 110px;
+    margin-top: 15px;
+}
+H1{
+    text-align: center;
+}
